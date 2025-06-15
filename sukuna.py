@@ -16,7 +16,7 @@ def sukuna():
         elif "how are you" in user_inp:
             print("as good as you")
         elif "your name" in user_inp:
-            print("im sukuna but u can call me daddy")
+            print("im sukuna but u can call me sir")
         else:
             print("idk what to say im spechless")
 
